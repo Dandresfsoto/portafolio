@@ -111,6 +111,7 @@
 
 .section.projects{
     border-top: 1px solid #E6ECF8;
+    padding-bottom: 0;
 }
 
 footer .social-icons a.button{
@@ -135,4 +136,13 @@ a, .button{
 
 .padding-40{
     padding: 40px;
+}
+
+.is-dark{
+    background-color: #363636;
+    color: #f5f5f5;
+}
+
+.color-secundary{
+    background-color: dimgrey;
 }
